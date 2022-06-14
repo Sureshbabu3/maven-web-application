@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url></url>
+	      <name>The learn365 Release Nexus Repository</name>
+	      <url>http://13.235.77.23:8081/repository/learn365-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.88.42:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>The learn365 Snapshot Nexus Repository </name>
+	      <url>http://13.235.77.23:8081/repository/learn365-Release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
