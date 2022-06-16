@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>ssb</id>
 	      <name>The learn365 Snapshot Nexus Repository </name>
-	      <url>http://43.204.100.201:8081/repository/learn365-Snapshot/</url>
+	      <url>http://43.204.231.164:8081/repository/learn365-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
